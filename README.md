@@ -36,6 +36,13 @@ Estudiante de Ingeniería en Software enfocado en **Backend** y **Ciberseguridad
 
 ## Proyectos destacados
 
+### Freelance
+
+- **Project Tia Glenda** - Sistema web desarrollado para cliente real. Backend en Python/Flask con PostgreSQL desplegado en Railway, frontend en React + Vite. Proyecto con arquitectura separada frontend/backend y suite de tests incluida.
+  - [Backend](https://github.com/Mickaell22/ProjectTiaGlendaBackend) | [Frontend](https://github.com/Mickaell22/ProjectTiaGlendaFrontend)
+
+### Academicos
+
 - **NovaMickTools** - Herramienta personal para generacion de documentos academicos
 - **CERAGEN** - Sistema de gestion para centro medico (Java, MVC, MySQL)
 - **DAWA** - Sistema de gestion medica (Flask + React)
