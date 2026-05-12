@@ -1,55 +1,70 @@
-# Hola, soy Mickaell 👋
+<div align="center">
 
-Estudiante de Ingeniería en Software enfocado en **Backend** y **Ciberseguridad**. Me gusta construir sistemas que funcionen bien por dentro, aunque no se vean bonitos por fuera.
+# Mickaell Morán
+
+**Desarrollador Fullstack · Guayaquil, Ecuador**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickaell.novamicktools.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mickaell.novamicktools.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaell-moran-vera-ba421a2a3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaelmoranvera03@gmail.com)
+
+</div>
 
 ---
 
-## Tecnologías que manejo
+Construyo sistemas web y móviles completos — desde la base de datos hasta la interfaz. Trabajo con clientes reales, tengo sistemas propios en producción y construyo mis propias herramientas cuando las que existen no me sirven.
 
-**Backend & Lenguajes**
+Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guayaquil.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
+
+## Stack
+
+**Backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Otros**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-## En que me enfoco
+## Proyectos
 
-- Desarrollo de aplicaciones backend robustas
-- APIs RESTful
-- Ciberseguridad y buenas practicas de seguridad en software
-- Siempre aprendiendo algo nuevo
+**EcuaInventario** — SaaS para negocios gastronómicos con chat IA que interpreta texto, audio y fotos de facturas. Django + Flutter + Claude AI + Whisper.
 
----
+**Facturador** — Sistema propio de facturación, pedidos y clientes. FastAPI + React + Tailwind. En producción en [novamicktools.com](https://novamicktools.com).
 
-## Proyectos destacados
+**Centro Tía Glenda** — Sistema de gestión clínica para centro de terapia especial. React + MUI + Python. Cliente real, entregado.
 
-### Freelance
+**SimuladorPreguntas** — Plataforma de simulacro de exámenes con anticheating, roles y exportación XML. Node.js + React + Docker. Desplegado en la Universidad de Guayaquil.
 
-- **Project Tia Glenda** - Sistema web desarrollado para cliente real. Backend en Python/Flask con PostgreSQL desplegado en Railway, frontend en React + Vite. Proyecto con arquitectura separada frontend/backend y suite de tests incluida.
-  - [Backend](https://github.com/Mickaell22/ProjectTiaGlendaBackend) | [Frontend](https://github.com/Mickaell22/ProjectTiaGlendaFrontend)
-
-### Academicos
-
-- **NovaMickTools** - Herramienta personal para generacion de documentos academicos
-- **CERAGEN** - Sistema de gestion para centro medico (Java, MVC, MySQL)
-- **DAWA** - Sistema de gestion medica (Flask + React)
+**mcp-context-server** — Servidor MCP propio para indexar repositorios y consultarlos con IA por lenguaje natural. Python + PostgreSQL + DeepSeek.
+→ [ver repositorio](https://github.com/Mickaell22/mcp-context-server)
 
 ---
 
-## Contacto
+## Ciberseguridad
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaelmoranvera03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mickaell22)
+Lab de penetration testing sobre Windows 7 — reconocimiento, explotación (EternalBlue, SMB Relay, NTLM), post-explotación y pivoting. Entorno controlado, documentado en video.
+
+[![YouTube](https://img.shields.io/badge/Ver_labs_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mickaell1335)
