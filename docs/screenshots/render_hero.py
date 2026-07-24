@@ -8,10 +8,10 @@ from PIL import Image, ImageDraw, ImageFont
 # ------- CONFIG (datos REALES: CV + api.github.com/users/Mickaell22) -------
 OUT = "docs/screenshots/hero.png"
 PROMPT = [("$ ", "cyan"), ("mickaell ", "white"), ("▸ ", "cyan"), ("whoami", "green")]
-BOX_TITLE = " Mickael Adrián Morán Vera "
+BOX_TITLE = " Mickaell Morán Vera "
 BOX_LINE1 = [("Fullstack Developer", "fg"), ("   ·   ", "magenta"), ("Guayaquil, Ecuador", "fg")]
 BOX_LINE2 = "Ing. de Software, 9no semestre · GPA 8.98/10 · Universidad de Guayaquil"
-BOX_LINE3 = "Co-founder de EcuaInventario · Freelance desde 2023 · Inglés B2"
+BOX_LINE3 = "Co-founder de EcuaInventario · Freelance desde 2025 · Inglés B2"
 COL_HEADERS = ("Área", "Stack")
 ROWS = [
     ("backend",   "Python · Django · FastAPI · Node.js · Express · C# · Java"),
@@ -24,7 +24,7 @@ ROWS = [
 SHOWN = 13
 REST_LABEL = "… y {n} más"
 TOTAL = len(ROWS)
-FOOTER = "52 repos públicos · Google Cybersecurity Certificate · UX Design en curso"
+FOOTER = "52 repos públicos · certificados Google de Cybersecurity y UX Design en curso"
 # --------------------------------------------------
 
 C = {"bg": "#0d0d0f", "fg": "#e6edf3", "dim": "#6e7681", "cyan": "#39d3e8",

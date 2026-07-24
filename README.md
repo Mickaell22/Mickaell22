@@ -38,9 +38,9 @@
 
 ## About
 
-9th-semester Software Engineering student at Universidad de Guayaquil (GPA 8.98/10), co-founder of a SaaS in production and freelance developer since 2023. I work end to end: database design, API, web and mobile client, deployment.
+9th-semester Software Engineering student at Universidad de Guayaquil (GPA 8.98/10), co-founder of a SaaS in production and freelance developer since 2025. I work end to end: database design, API, web and mobile client, deployment.
 
-*Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guayaquil (GPA 8.98/10), co-fundador de un SaaS en producción y desarrollador freelance desde 2023. Trabajo de punta a punta: diseño de base de datos, API, cliente web y móvil, despliegue.*
+*Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guayaquil (GPA 8.98/10), co-fundador de un SaaS en producción y desarrollador freelance desde 2025. Trabajo de punta a punta: diseño de base de datos, API, cliente web y móvil, despliegue.*
 
 ---
 
@@ -124,20 +124,23 @@
 
 ## Experience
 
-**Co-founder & Fullstack Developer** — EcuaInventario · 2024 – present
+**Co-founder & Fullstack Developer** — EcuaInventario · Feb 2026 – present
 <br/>Multitenancy architecture with per-tenant data isolation and subscription billing, Django 5 + DRF + PostgreSQL backend, Flutter mobile app with real-time sync via Firebase, and an AI assistant for inventory queries and automated reports.
 
-**Fullstack Developer (freelance)** — Guayaquil · 2023 – present
+**Fullstack Developer (freelance)** — Guayaquil · Jul 2025 – present
 <br/>Clinical management system for Centro Tía Glenda, e-invoicing integrated with Ecuador's SRI, university exam simulator and a workshop management system — from database to deployment.
 
-**Software Development Intern** — Leveling Area, Universidad de Guayaquil · 2025 (6 months)
+**Software Development Intern** — Leveling Area, Universidad de Guayaquil · Feb 2026 (6 months)
 <br/>Led frontend, backend, testing and deployment of the SimuladorPreguntas platform for institutional use; automated registration and report-generation workflows with Python.
 
 ### Education
 
 **B.Sc. Software Engineering** — Universidad de Guayaquil · 2021 – present · GPA 8.98/10
 
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate_2025-4285F4?style=flat-square&logo=google&logoColor=white)
+**Google / Coursera** — Professional Certificate in Cybersecurity · in progress (1 of 4 courses)
+<br/>**Google / Coursera** — Professional Certificate in UX Design · in progress (2 of 8 courses)
+
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_in_progress-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Google UX Design](https://img.shields.io/badge/Google-UX_Design_in_progress-4285F4?style=flat-square&logo=google&logoColor=white)
 ![English B2](https://img.shields.io/badge/English-B2-0B5394?style=flat-square)
 
@@ -145,9 +148,9 @@
 
 ## Security
 
-Google Cybersecurity Professional Certificate (2025) plus hands-on lab work: penetration testing on Windows 7 — reconnaissance, exploitation (EternalBlue, SMB Relay, NTLM), post-exploitation and pivoting. Controlled environment, documented on video. It also shows up in what I build: [QR Shield](https://github.com/Mickaell22/qr-shield) came out of this.
+Active learning, with hands-on labs: penetration testing on Windows 7 — reconnaissance, exploitation (EternalBlue, SMB Relay, NTLM), post-exploitation and pivoting. Controlled environment, documented on video. Currently taking Google's Cybersecurity Professional Certificate. It also shows up in what I build: [QR Shield](https://github.com/Mickaell22/qr-shield) came out of this.
 
-*Certificado de Ciberseguridad de Google y laboratorios propios de pentesting en entorno controlado, documentados en video.*
+*Aprendizaje activo con laboratorios propios de pentesting en entorno controlado, documentados en video. Cursando el certificado de Ciberseguridad de Google.*
 
 [![YouTube](https://img.shields.io/badge/Ver_labs_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mickaell1335)
 
