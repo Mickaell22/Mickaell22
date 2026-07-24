@@ -1,0 +1,31 @@
+<!--
+  Titulo animado ESTILO GLOW (neon que respira) — perfil de Mickael Moran.
+  Adaptado de readme-chulo/assets/title-glow.svg.
+
+  Notas de adaptacion:
+  - Lleva rect de fondo #0d0d0f: el texto nitido es claro (#e6edf3) y sin ese
+    lienzo propio quedaria invisible en el tema claro de GitHub. Ademas encadena
+    con el fondo del hero de terminal (mismo hex).
+  - Acento verde terminal #3fdd78, coherente con el PNG del hero.
+  - Si cambia el texto, cambiarlo en AMBOS <text> (deben ser identicos).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="150" viewBox="0 0 820 150" fill="none" role="img" aria-label="Mickaell Morán - Fullstack Developer">
+  <defs>
+    <filter id="blur" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="820" height="150" rx="16" fill="#0d0d0f"/>
+
+  <!-- capa glow: late -->
+  <text x="410" y="86" text-anchor="middle" font-family="'DejaVu Sans Mono','JetBrains Mono','Consolas',monospace" font-size="54" font-weight="bold" fill="#3fdd78" filter="url(#blur)" opacity="0.5">MICKAELL MORÁN
+    <animate attributeName="opacity" values="0.3;0.85;0.3" dur="2.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1" keyTimes="0;0.5;1"/>
+  </text>
+
+  <!-- capa nitida -->
+  <text x="410" y="86" text-anchor="middle" font-family="'DejaVu Sans Mono','JetBrains Mono','Consolas',monospace" font-size="54" font-weight="bold" fill="#e6edf3">MICKAELL MORÁN</text>
+
+  <!-- subtitulo -->
+  <text x="410" y="120" text-anchor="middle" font-family="'DejaVu Sans Mono','JetBrains Mono','Consolas',monospace" font-size="19" letter-spacing="4" fill="#6e7681">FULLSTACK DEVELOPER</text>
+</svg>
