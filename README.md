@@ -100,8 +100,8 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 
 ### En producción
 
-**[EcuaInventario](https://github.com/Mickaell22/EcuaInventario_Backend)** — SaaS multitenancy para negocios gastronómicos: inventario, pedidos y facturación por suscripción, con un asistente IA que interpreta texto, audio y fotos de facturas. El aislamiento por tenant no vive en la vista: un manager `for_tenant()` sobre un modelo base abstracto fuerza el filtro antes de llegar al ViewSet. Django 5 + DRF + PostgreSQL, Flutter + Riverpod, Claude + Whisper.
-<br/>[`backend`](https://github.com/Mickaell22/EcuaInventario_Backend) · [`app`](https://github.com/Mickaell22/EcuaInventario_Frontend)
+**[Facilito](https://github.com/Mickaell22/facilito-backend)** — SaaS multitenancy para negocios gastronómicos: inventario, pedidos y facturación por suscripción, con un asistente IA que interpreta texto, audio y fotos de facturas. El aislamiento por tenant no vive en la vista: un manager `for_tenant()` sobre un modelo base abstracto fuerza el filtro antes de llegar al ViewSet. Django 5 + DRF + PostgreSQL, Flutter + Riverpod, DeepSeek + Whisper + Claude Haiku.
+<br/>[`backend`](https://github.com/Mickaell22/facilito-backend) · [`app`](https://github.com/Mickaell22/facilito-frontend)
 
 **[Facturador](https://github.com/Mickaell22/Facturador_Backend)** — Plataforma propia de pedidos, clientes y facturación, en producción en [novamicktools.com](https://novamicktools.com). FastAPI + SQLAlchemy + Alembic + PostgreSQL + React + Tailwind.
 <br/>[`backend`](https://github.com/Mickaell22/Facturador_Backend) · [`frontend`](https://github.com/Mickaell22/Facturador_Frontend)
@@ -134,7 +134,7 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 
 ## Experiencia
 
-**Co-fundador y Desarrollador Fullstack** — EcuaInventario · feb 2026 – actualidad
+**Co-fundador y Desarrollador Fullstack** — Facilito · feb 2026 – actualidad
 <br/>Arquitectura multitenancy con aislamiento de datos forzado por queryset y facturación por suscripción, backend Django 5 + DRF + PostgreSQL, app móvil Flutter + Riverpod que consume la API REST con almacenamiento seguro de sesión, y asistente IA para consultas de inventario y reportes automáticos.
 
 **Desarrollador Fullstack (freelance)** — Guayaquil · jul 2025 – actualidad
