@@ -1,195 +1,132 @@
 <div align="center">
 
-<img src="./docs/screenshots/hero.png" alt="mickaell - whoami" width="820"/>
+<a href="https://mickaell.novamicktools.com"><img src="./docs/assets/banner.svg" alt="Mickaell Morán - Fullstack: de la base de datos a la app móvil" width="100%"/></a>
 
-<br/>
-<br/>
+### Construyo sistemas web y móviles completos, de la base de datos a la interfaz.
 
-<img src="./docs/screenshots/title.svg" alt="Mickaell Morán - Fullstack Developer" width="560"/>
-
-### Construyo sistemas web y móviles completos — desde la base de datos hasta la interfaz.
-
-**Clientes reales, sistemas propios en producción**
-<br/>
-**y mis propias herramientas cuando las que existen no me sirven.**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mickaell.novamicktools.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mickaell.novamicktools.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickaell.novamicktools.com-0b0f17?style=for-the-badge&logo=vercel&logoColor=white)](https://mickaell.novamicktools.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaell-moran-vera-ba421a2a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaelmoranvera03@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mickaell1335)
 
-<br/>
-
-[![Fullstack](https://img.shields.io/badge/Fullstack-Web_%2B_M%C3%B3vil-3fdd78?style=for-the-badge)](#stack)
-[![IA](https://img.shields.io/badge/IA-Integraciones_reales-6C5CE7?style=for-the-badge)](#proyectos)
-[![Seguridad](https://img.shields.io/badge/Seguridad-Kali_%C2%B7_Nmap_%C2%B7_Wireshark-e05fd8?style=for-the-badge)](#seguridad)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/Mickaell22?style=social)](https://github.com/Mickaell22?tab=followers)
-
-[**Stack**](#stack) • [**Proyectos**](#proyectos) • [**Experiencia**](#experiencia) • [**Seguridad**](#seguridad) • [**Contacto**](#contacto)
+[**Proyectos**](#proyectos) • [**Stack**](#stack) • [**Experiencia**](#experiencia) • [**Formación**](#formación) • [**Contacto**](#contacto)
 
 </div>
 
 ---
 
-## Sobre mí
+Estudiante de último semestre de Ingeniería de Software en la Universidad de Guayaquil (9.01/10).
 
-Estudiante de 10mo y último semestre de Ingeniería de Software en la Universidad de Guayaquil (promedio 9.01/10), pasante de desarrollo en el ERP corporativo de Grupo Lucky (.NET + Angular + SQL Server), co-fundador de un SaaS en producción y desarrollador freelance. Trabajo de punta a punta: diseño de base de datos, API, cliente web y móvil, pruebas y despliegue — y antes de dar un fix por bueno, lo verifico contra los datos reales.
-
----
-
-## Stack
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
-
-**Móvil**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Datos e infraestructura**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Pruebas y CI/CD**
-
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**También**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
----
+- **Ahora:** pasante de desarrollo en el ERP corporativo de Grupo Lucky, con .NET, Angular y SQL Server.
+- **Construyendo:** [Facilito](https://github.com/Mickaell22/facilito-backend), un SaaS para restaurantes, como co-fundador.
+- **Me importa:** IA que no se cree a ciegas lo que devuelve el modelo, y verificar cada fix contra datos reales.
 
 ## Proyectos
 
-### En producción
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/facilito-backend"><img src="./docs/assets/cover-facilito.png" alt="Facilito: SaaS multitenant para negocios gastronómicos con asistente IA"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/facilito-backend">backend</a> · <a href="https://github.com/Mickaell22/facilito-frontend">app Flutter</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/restoventas-app"><img src="./docs/assets/cover-restoventas.png" alt="RestoVentas: pedidos por voz con Whisper y un LLM"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/restoventas-app">app</a> · <a href="https://github.com/Mickaell22/restoventas-backend">backend</a> · <a href="https://github.com/Mickaell22/restopanel">panel</a> · <a href="https://github.com/Mickaell22/RestoOps">infra</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/mcp-context-server"><img src="./docs/assets/cover-mcp.png" alt="mcp-context-server: memoria semántica de repos para Claude Code"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/mcp-context-server">servidor</a> · <a href="https://github.com/Mickaell22/mcp-context-dashboard">dashboard</a> · <a href="https://github.com/Mickaell22/mcp-context-server"><img src="https://img.shields.io/github/stars/Mickaell22/mcp-context-server?style=social" alt="Stars" align="center"/></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/Facturador_Backend"><img src="./docs/assets/cover-facturador.png" alt="Facturador: pedidos, clientes y facturación en producción"/></a>
+<p align="center"><a href="https://novamicktools.com">en vivo</a> · <a href="https://github.com/Mickaell22/Facturador_Backend">backend</a> · <a href="https://github.com/Mickaell22/Facturador_Frontend">frontend</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/ProjectTiaGlendaFrontend"><img src="./docs/assets/cover-tiaglenda.png" alt="Centro Tía Glenda: gestión clínica multi-rol"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/ProjectTiaGlendaFrontend">frontend</a> · <a href="https://github.com/Mickaell22/ProjectTiaGlendaBackend">backend</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/MotoVox"><img src="./docs/assets/cover-motovox.png" alt="MotoVox: intercomunicador con audio P2P y filtro de ruido nativo"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/MotoVox">repositorio</a></p>
+</td>
+</tr>
+</table>
 
-**[Facilito](https://github.com/Mickaell22/facilito-backend)** — SaaS multitenancy para negocios gastronómicos: inventario, pedidos y facturación por suscripción, con un asistente IA que interpreta texto, audio y fotos de facturas. El aislamiento por tenant no vive en la vista: un manager `for_tenant()` sobre un modelo base abstracto fuerza el filtro antes de llegar al ViewSet. Django 5 + DRF + PostgreSQL, Flutter + Riverpod, DeepSeek + Whisper + Claude Haiku.
-<br/>[`backend`](https://github.com/Mickaell22/facilito-backend) · [`app`](https://github.com/Mickaell22/facilito-frontend)
+<details>
+<summary><b>Más proyectos</b></summary>
+<br/>
 
-**[Facturador](https://github.com/Mickaell22/Facturador_Backend)** — Plataforma propia de pedidos, clientes y facturación, en producción en [novamicktools.com](https://novamicktools.com). FastAPI + SQLAlchemy + Alembic + PostgreSQL + React + Tailwind.
-<br/>[`backend`](https://github.com/Mickaell22/Facturador_Backend) · [`frontend`](https://github.com/Mickaell22/Facturador_Frontend)
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [SimuladorPreguntas](https://github.com/Mickaell22/SimuladorPreguntasBackend) | Simulador de exámenes de ingreso desplegado en la Universidad de Guayaquil, con medidas anti-trampa | Express, React, PostgreSQL, Docker |
+| [ApplyJob](https://github.com/Mickaell22/ApplyJob) | Agrega ofertas de 13 fuentes (APIs, RSS, HTML y SPAs con Playwright) y las puntúa contra un perfil | Python, Playwright, LLMs |
+| [QR Shield](https://github.com/Mickaell22/qr-shield) | Detector de QR maliciosos contra el quishing (tesis), con heurísticas de URL y tests | FastAPI, pytest |
+| [chat-server](https://github.com/Mickaell22/chat-server) | Chat con llamadas de voz WebRTC en malla P2P y CI/CD con healthcheck post-deploy | Express, Socket.IO, Prisma |
+| [Respondón](https://github.com/Mickaell22/Respondon) | Detecta tus capturas, extrae el texto con OCR local y responde en una burbuja flotante | Kotlin, Compose, ML Kit |
+| [Ceragen 3](https://github.com/Mickaell22/ceragen-3) | Gestión para un centro de fisioterapia, en construcción | FastAPI, PostgreSQL, React |
+| [Portafolio](https://github.com/Mickaell22/mickaell-portafolio) | Portafolio y CV dinámico bilingüe, con case studies en MDX | Next.js, shadcn/ui |
 
-**[Centro Tía Glenda](https://github.com/Mickaell22/ProjectTiaGlendaFrontend)** — Sistema de gestión clínica para un centro de terapia especial: multi-rol, multi-centro, ~130 componentes React y 23 suites de tests. React + MUI + Flask + PostgreSQL. Cliente real, entregado.
-<br/>[`frontend`](https://github.com/Mickaell22/ProjectTiaGlendaFrontend) · [`backend`](https://github.com/Mickaell22/ProjectTiaGlendaBackend)
+</details>
 
-**[SimuladorPreguntas](https://github.com/Mickaell22/SimuladorPreguntasBackend)** — Simulador de exámenes de ingreso desplegado en la Universidad de Guayaquil: banco de preguntas, roles diferenciados, medidas anti-trampa y exportación XML. Express 5 + React + PostgreSQL, desplegado con Docker multi-stage sobre nginx y usuario no-root.
+## Stack
 
-### Proyectos propios
-
-**[mcp-context-server](https://github.com/Mickaell22/mcp-context-server)** — Servidor MCP para Claude Code: indexa repositorios por semántica con ChromaDB y compresión DeepSeek, para que un agente consulte un repo entero en lenguaje natural sin quemar la ventana de contexto. Python + PostgreSQL.
-<br/>[![Stars](https://img.shields.io/github/stars/Mickaell22/mcp-context-server?style=social)](https://github.com/Mickaell22/mcp-context-server) · [`dashboard`](https://github.com/Mickaell22/mcp-context-dashboard)
-
-**[RestoVentas](https://github.com/Mickaell22/restoventas-backend)** — App de ventas para restaurante donde el mesero dicta el pedido: el audio se transcribe con Whisper y un LLM lo convierte en ítems del carrito. Nada de lo que devuelve el modelo se confía — se sanea contra el catálogo real (descarta IDs alucinados, cantidades inválidas, deduplica) y los precios los recalcula el servidor. NestJS + TypeORM + PostgreSQL + JWT, React Native + Expo + Zustand.
-<br/>[`backend`](https://github.com/Mickaell22/restoventas-backend) · [`app`](https://github.com/Mickaell22/restoventas-app)
-
-**[Respondón](https://github.com/Mickaell22/Respondon)** — App Android que detecta tus capturas de pantalla, extrae el texto con OCR local (ML Kit) y responde en una burbuja flotante con DeepSeek. Kotlin + Jetpack Compose.
-
-**[MotoVox](https://github.com/Mickaell22/MotoVox)** — Intercomunicador para motociclistas: audio P2P en tiempo real sobre WiFi local con sockets TCP crudos (`tcpNoDelay` para minimizar latencia) y descubrimiento de salas por broadcast UDP, sin servidor intermediario. El filtrado de ruido es C nativo (RNNoise compilado con el NDK para ARM64) enlazado a Flutter por FFI, sin overhead de JVM.
-
-**[chat-server](https://github.com/Mickaell22/chat-server)** — Chat en tiempo real con llamadas de voz: WebRTC en malla P2P (una conexión por par) con señalización propia sobre Socket.IO. Express + Prisma + PostgreSQL, con 16 migraciones versionadas y CI/CD que corre los tests, despliega a Railway y verifica con healthcheck post-deploy.
-<br/>[`server`](https://github.com/Mickaell22/chat-server) · [`client`](https://github.com/Mickaell22/chat-client)
-
-**[QR Shield](https://github.com/Mickaell22/qr-shield)** — Motor de detección de códigos QR maliciosos contra el quishing (tesis): API REST en FastAPI con una capa de heurísticas de URL, cubierta con tests automatizados. Arquitectura por capas L1–L5, con las integraciones de reputación de dominios como siguiente etapa.
-
-**[ApplyJob](https://github.com/Mickaell22/ApplyJob)** — Pipeline de agregación y matching de ofertas de empleo: normaliza 7 fuentes heterogéneas (APIs JSON, RSS y HTML, con Playwright headless para las que exigen render JS) a un esquema común, las puntúa contra un perfil y genera la carta con un LLM. Reordenar el prompt para caché de prefijo bajó ~80% los tokens de entrada.
-
----
+<img src="./docs/assets/stack.svg" alt="Stack: Python, Django, FastAPI, Flask, Node.js, NestJS, .NET, C#, React, Next.js, Angular, TypeScript, Tailwind, Vite, Flutter, Dart, React Native, Expo, Kotlin, PostgreSQL, SQL Server, MySQL, Prisma, TypeORM, SQLAlchemy, Firebase, Docker, Linux, GitHub Actions, nginx, Caddy, Cloudflare, Railway, Claude, OpenAI, pytest, Jest, Vitest, Playwright" width="100%"/>
 
 ## Experiencia
 
-**Pasante de Desarrollo de Software** — Grupo Lucky (ERP corporativo) · ago 2026 – actualidad
-<br/>Desarrollo y mantenimiento de un ERP corporativo multi-repo (5 backends .NET en capas con Dapper sobre stored procedures de SQL Server, frontend Angular), en los módulos de RRHH, comercial y finanzas para la operación de Ecuador.
-- Construí de cero el calculador de décimos (décimo tercero y cuarto, Costa y Sierra): stored procedures, API .NET en 4 capas y pantalla Angular. Pasó de cálculo en vivo a resultado persistido por corrida, con el CSV oficial del Ministerio del Trabajo generado por el sistema (antes se armaba a mano en Excel), cierre de período y envío a tesorería reutilizando el flujo de planillas existente.
-- Destrabé un reporte de asistencia que no terminaba de cargar: pasé el cruce filas × días × marcas a búsquedas O(1) por diccionario.
-- Llevé un módulo de bitácora de compras de demo a producción (PHP 8.4 + JS vanilla + MySQL): reemplazó un Excel mensual, extrae datos de órdenes de compra y facturas en el navegador con pdf.js, admite carga masiva multihoja y dibuja sus gráficos en SVG propio, sin librerías.
-- Resolví ~20 incidencias de producción (bugs de datos, filtros, CORS, validaciones, codificación de archivos), separando bug de código de dato de catálogo antes de tocar nada y validando cada fix contra la base real.
+| Periodo | Rol | Dónde |
+|---|---|---|
+| ago 2026 – hoy | Pasante de Desarrollo de Software | Grupo Lucky, ERP corporativo |
+| feb 2026 – hoy | Co-fundador y Desarrollador Fullstack | Facilito |
+| jul 2025 – hoy | Desarrollador Fullstack freelance | Clientes en Guayaquil |
+| feb 2026 – jul 2026 | Pasante de Desarrollo de Software | Área de Nivelación, Universidad de Guayaquil |
 
-**Co-fundador y Desarrollador Fullstack** — Facilito · feb 2026 – actualidad
-<br/>Arquitectura multitenancy con aislamiento de datos forzado por queryset y facturación por suscripción, backend Django 5 + DRF + PostgreSQL, app móvil Flutter + Riverpod que consume la API REST con almacenamiento seguro de sesión, y asistente IA para consultas de inventario y reportes automáticos.
+<details>
+<summary><b>Qué hago en Grupo Lucky</b></summary>
+<br/>
 
-**Desarrollador Fullstack (freelance)** — Guayaquil · jul 2025 – actualidad
-<br/>Sistema de gestión clínica para el Centro Tía Glenda, integración con el SRI de Ecuador para un e-commerce (generación del XML, clave de acceso de 49 dígitos y envío de sobres SOAP a recepción y autorización, en ambiente de pruebas), simulador de exámenes universitario y sistema de gestión para un taller mecánico — de la base de datos al despliegue.
+ERP multi-repo: 5 backends .NET en capas con Dapper sobre stored procedures de SQL Server y un frontend Angular, en los módulos de RRHH, comercial y finanzas de la operación de Ecuador.
 
-**Pasante de Desarrollo de Software** — Área de Nivelación, Universidad de Guayaquil · feb 2026 – jul 2026
-<br/>Lideré frontend, backend, pruebas y despliegue de la plataforma SimuladorPreguntas para uso institucional; automaticé flujos de registro y generación de reportes con scripts en Python.
+- Calculador de décimos (tercero y cuarto, Costa y Sierra) construido de cero: stored procedures, API .NET en 4 capas y pantalla Angular, con cálculo persistido por corrida, el CSV oficial del Ministerio del Trabajo generado por el sistema y cierre de período.
+- Un reporte de asistencia que no terminaba de cargar pasó a búsquedas O(1) por diccionario.
+- Bitácora de compras llevada de demo a producción (PHP + MySQL): extracción de órdenes y facturas con pdf.js en el navegador y gráficos SVG propios.
+- Unas 20 incidencias de producción resueltas, cada fix validado contra la base real.
 
-### Formación
+</details>
 
-**Ingeniería de Software** — Universidad de Guayaquil · 2021 – actualidad · promedio 9.01/10
+<details>
+<summary><b>Freelance y Facilito</b></summary>
+<br/>
 
-**Google / Coursera** — Certificado Profesional en Ciberseguridad · en curso
-<br/>**Google / Coursera** — Certificado Profesional en UX Design · en curso
-<br/>**Universidad de Guayaquil (FCMF)** — Tech Lab: Servidor Web Local con GNU/Linux (40 h) · ago 2026
-<br/>**Academia Hacker Mentor** — Ethical Hacking, Red Team (8 h) · 2023
+- **Facilito:** multitenancy forzada por queryset (un manager `for_tenant()` sobre un modelo base abstracto), Django 5 + DRF + PostgreSQL, app Flutter + Riverpod y asistente IA con DeepSeek, Whisper y Claude.
+- **Freelance:** gestión clínica para el Centro Tía Glenda, integración con el SRI de Ecuador para un e-commerce (XML, clave de acceso de 49 dígitos y sobres SOAP, en ambiente de pruebas), simulador de exámenes universitario y sistema para un taller mecánico.
+
+</details>
+
+## Formación
+
+**Ingeniería de Software**, Universidad de Guayaquil · 2021 – hoy · último semestre, promedio 9.01/10
 
 ![Google Ciberseguridad](https://img.shields.io/badge/Google-Ciberseguridad_en_curso-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Google UX Design](https://img.shields.io/badge/Google-UX_Design_en_curso-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tech Lab Linux](https://img.shields.io/badge/UG-Servidor_web_GNU%2FLinux_40h-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Red Team](https://img.shields.io/badge/Hacker_Mentor-Ethical_Hacking_Red_Team-e05fd8?style=flat-square&logo=kalilinux&logoColor=white)
 ![Inglés B2](https://img.shields.io/badge/Ingl%C3%A9s-B2-0B5394?style=flat-square)
 
----
-
-## Seguridad
-
-Aprendizaje activo, con laboratorios prácticos: pentesting sobre Windows 7 — reconocimiento, explotación (EternalBlue, SMB Relay, NTLM), post-explotación y pivoting. Entorno controlado, documentado en video. Actualmente cursando el certificado de Ciberseguridad de Google. También se nota en lo que construyo: de ahí salió [QR Shield](https://github.com/Mickaell22/qr-shield).
-
-[![YouTube](https://img.shields.io/badge/Ver_labs_en_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mickaell1335)
-
----
+En seguridad aprendo con laboratorios: pentesting sobre Windows 7 en un entorno controlado (EternalBlue, SMB Relay, NTLM, pivoting), documentado en [YouTube](https://www.youtube.com/@mickaell1335). De ahí salió [QR Shield](https://github.com/Mickaell22/qr-shield).
 
 ## Contacto
 
 <div align="center">
 
-**Abierto a roles fullstack y proyectos freelance.**
+**Abierto a roles fullstack y proyectos freelance.** Guayaquil, Ecuador.
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mickaell.novamicktools.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mickaell.novamicktools.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mickaell.novamicktools.com-0b0f17?style=for-the-badge&logo=vercel&logoColor=white)](https://mickaell.novamicktools.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaell-moran-vera-ba421a2a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickaelmoranvera03@gmail.com)
-
-Guayaquil, Ecuador
 
 </div>
