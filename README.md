@@ -54,6 +54,12 @@ Estudiante de último semestre de Ingeniería de Software en la Universidad de G
 <p align="center"><a href="https://github.com/Mickaell22/MotoVox">repositorio</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/Mickaell22/surco"><img src="./docs/assets/cover-surco.png" alt="Surco: reproductor de música local para Android" width="50%"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/surco/releases/latest">descargar APK</a> · <a href="https://github.com/Mickaell22/surco">repositorio</a></p>
+</td>
+</tr>
 </table>
 
 <details>

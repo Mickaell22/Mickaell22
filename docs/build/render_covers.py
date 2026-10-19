@@ -61,6 +61,10 @@ COVERS = [
          text="Pedidos grupales, clientes y facturación: login con Google, exportación a Excel y enlaces públicos por token.",
          chips=["FastAPI", "SQLAlchemy", "React", "PostgreSQL"],
          icons=["fastapi", "react", "postgresql", "tailwindcss"]),
+    dict(slug="surco", accent="#e8762c", tag="ANDROID · APK PUBLICADO", title="Surco",
+         text="Reproductor de música local sin cuentas ni anuncios: letras sincronizadas, estadísticas y listas que se arman solas.",
+         chips=["Flutter", "Dart", "just_audio", "Android"],
+         phones=["Surco/docs/screenshots/listas.png", "Surco/docs/screenshots/configuracion.png"]),
 ]
 
 
