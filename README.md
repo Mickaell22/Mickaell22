@@ -38,7 +38,7 @@
 
 ## Sobre mí
 
-Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guayaquil (promedio 9.01/10), co-fundador de un SaaS en producción y desarrollador freelance. Trabajo de punta a punta: diseño de base de datos, API, cliente web y móvil, pruebas y despliegue.
+Estudiante de 10mo y último semestre de Ingeniería de Software en la Universidad de Guayaquil (promedio 9.01/10), pasante de desarrollo en el ERP corporativo de Grupo Lucky (.NET + Angular + SQL Server), co-fundador de un SaaS en producción y desarrollador freelance. Trabajo de punta a punta: diseño de base de datos, API, cliente web y móvil, pruebas y despliegue — y antes de dar un fix por bueno, lo verifico contra los datos reales.
 
 ---
 
@@ -52,11 +52,14 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -73,6 +76,8 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 **Datos e infraestructura**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,11 +91,11 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **También**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -134,6 +139,13 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 
 ## Experiencia
 
+**Pasante de Desarrollo de Software** — Grupo Lucky (ERP corporativo) · ago 2026 – actualidad
+<br/>Desarrollo y mantenimiento de un ERP corporativo multi-repo (5 backends .NET en capas con Dapper sobre stored procedures de SQL Server, frontend Angular), en los módulos de RRHH, comercial y finanzas para la operación de Ecuador.
+- Construí de cero el calculador de décimos (décimo tercero y cuarto, Costa y Sierra): stored procedures, API .NET en 4 capas y pantalla Angular. Pasó de cálculo en vivo a resultado persistido por corrida, con el CSV oficial del Ministerio del Trabajo generado por el sistema (antes se armaba a mano en Excel), cierre de período y envío a tesorería reutilizando el flujo de planillas existente.
+- Destrabé un reporte de asistencia que no terminaba de cargar: pasé el cruce filas × días × marcas a búsquedas O(1) por diccionario.
+- Llevé un módulo de bitácora de compras de demo a producción (PHP 8.4 + JS vanilla + MySQL): reemplazó un Excel mensual, extrae datos de órdenes de compra y facturas en el navegador con pdf.js, admite carga masiva multihoja y dibuja sus gráficos en SVG propio, sin librerías.
+- Resolví ~20 incidencias de producción (bugs de datos, filtros, CORS, validaciones, codificación de archivos), separando bug de código de dato de catálogo antes de tocar nada y validando cada fix contra la base real.
+
 **Co-fundador y Desarrollador Fullstack** — Facilito · feb 2026 – actualidad
 <br/>Arquitectura multitenancy con aislamiento de datos forzado por queryset y facturación por suscripción, backend Django 5 + DRF + PostgreSQL, app móvil Flutter + Riverpod que consume la API REST con almacenamiento seguro de sesión, y asistente IA para consultas de inventario y reportes automáticos.
 
@@ -149,6 +161,7 @@ Estudiante de 9no semestre de Ingeniería de Software en la Universidad de Guaya
 
 **Google / Coursera** — Certificado Profesional en Ciberseguridad · en curso
 <br/>**Google / Coursera** — Certificado Profesional en UX Design · en curso
+<br/>**Universidad de Guayaquil (FCMF)** — Tech Lab: Servidor Web Local con GNU/Linux (40 h) · ago 2026
 <br/>**Academia Hacker Mentor** — Ethical Hacking, Red Team (8 h) · 2023
 
 ![Google Ciberseguridad](https://img.shields.io/badge/Google-Ciberseguridad_en_curso-4285F4?style=flat-square&logo=google&logoColor=white)
