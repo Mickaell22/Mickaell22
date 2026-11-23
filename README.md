@@ -115,7 +115,7 @@ ERP multi-repo: 5 backends .NET en capas con Dapper sobre stored procedures de S
 <br/>
 
 - **Facilito:** multitenancy forzada por queryset (un manager `for_tenant()` sobre un modelo base abstracto), Django 5 + DRF + PostgreSQL, app Flutter + Riverpod y asistente IA con DeepSeek, Whisper y Claude.
-- **Freelance:** gestión clínica para el Centro Tía Glenda, integración con el SRI de Ecuador para un e-commerce (XML, clave de acceso de 49 dígitos y sobres SOAP, en ambiente de pruebas), simulador de exámenes universitario y sistema para un taller mecánico.
+- **Freelance:** gestión clínica para el Centro Tía Glenda, integración con el SRI de Ecuador para un e-commerce (XML, clave de acceso de 49 dígitos y sobres SOAP, en ambiente de pruebas), simulador de exámenes universitario y sistema para un taller de reparación de celulares.
 
 </details>
 
