@@ -55,9 +55,13 @@ Estudiante de último semestre de Ingeniería de Software en la Universidad de G
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://github.com/Mickaell22/surco"><img src="./docs/assets/cover-surco.png" alt="Surco: reproductor de música local para Android" width="50%"/></a>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/surco"><img src="./docs/assets/cover-surco.png" alt="Surco: reproductor de música local para Android"/></a>
 <p align="center"><a href="https://github.com/Mickaell22/surco/releases/latest">descargar APK</a> · <a href="https://github.com/Mickaell22/surco">repositorio</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Mickaell22/mickhub"><img src="./docs/assets/cover-mickhub.png" alt="MickHub: cliente de git de escritorio con GitHub y Azure DevOps a la vez"/></a>
+<p align="center"><a href="https://github.com/Mickaell22/mickhub/releases/latest">descargar</a> · <a href="https://github.com/Mickaell22/mickhub">repositorio</a></p>
 </td>
 </tr>
 </table>
@@ -69,6 +73,7 @@ Estudiante de último semestre de Ingeniería de Software en la Universidad de G
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | [SimuladorPreguntas](https://github.com/Mickaell22/SimuladorPreguntasBackend) | Simulador de exámenes de ingreso desplegado en la Universidad de Guayaquil, con medidas anti-trampa | Express, React, PostgreSQL, Docker |
+| [mcp-onenote](https://github.com/Mickaell22/mcp-onenote) | Servidor MCP para que Claude lea, busque (con el OCR de las capturas) y escriba en OneNote de escritorio vía COM, sin Azure ni Graph | Python, MCP, comtypes |
 | [ApplyJob](https://github.com/Mickaell22/ApplyJob) | Agrega ofertas de 13 fuentes (APIs, RSS, HTML y SPAs con Playwright) y las puntúa contra un perfil | Python, Playwright, LLMs |
 | [QR Shield](https://github.com/Mickaell22/qr-shield) | Detector de QR maliciosos contra el quishing (tesis), con heurísticas de URL y tests | FastAPI, pytest |
 | [chat-server](https://github.com/Mickaell22/chat-server) | Chat con llamadas de voz WebRTC en malla P2P y CI/CD con healthcheck post-deploy | Express, Socket.IO, Prisma |
@@ -100,7 +105,8 @@ ERP multi-repo: 5 backends .NET en capas con Dapper sobre stored procedures de S
 - Calculador de décimos (tercero y cuarto, Costa y Sierra) construido de cero: stored procedures, API .NET en 4 capas y pantalla Angular, con cálculo persistido por corrida, el CSV oficial del Ministerio del Trabajo generado por el sistema y cierre de período.
 - Un reporte de asistencia que no terminaba de cargar pasó a búsquedas O(1) por diccionario.
 - Bitácora de compras llevada de demo a producción (PHP + MySQL): extracción de órdenes y facturas con pdf.js en el navegador y gráficos SVG propios.
-- Unas 20 incidencias de producción resueltas, cada fix validado contra la base real.
+- En el ERP nuevo (Angular 19): flujo de postulantes a Maestro de Personal y anulación de solicitudes de compra, con el control de acceso en la capa de datos y no solo en la pantalla.
+- 17 incidencias de producción resueltas, cada fix validado contra la base real.
 
 </details>
 
