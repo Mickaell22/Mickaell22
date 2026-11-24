@@ -106,7 +106,7 @@ ERP multi-repo: 5 backends .NET en capas con Dapper sobre stored procedures de S
 - Un reporte de asistencia que no terminaba de cargar pasó a búsquedas O(1) por diccionario.
 - Bitácora de compras llevada de demo a producción (PHP + MySQL): extracción de órdenes y facturas con pdf.js en el navegador y gráficos SVG propios.
 - En el ERP nuevo (Angular 19): flujo de postulantes a Maestro de Personal y anulación de solicitudes de compra, con el control de acceso en la capa de datos y no solo en la pantalla.
-- 17 incidencias de producción resueltas, cada fix validado contra la base real.
+- 18 incidencias de producción resueltas, cada fix validado contra la base real.
 
 </details>
 
